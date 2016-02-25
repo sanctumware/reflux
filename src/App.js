@@ -150,8 +150,8 @@ class App extends Component {
         {this.props.isLoading ? <Spinner /> : null}
         <div style={styles.header}>
           <span onClick={this._onLogoClick} style={styles.logo}>
-            ☢
-            <span style={styles.logoName}>{' '}NUCLEARMAIL</span>
+            &#x2709;
+            <span style={styles.logoName}>{' '}reflux</span>
           </span>
           <SearchBox
             onQueryChange={this._onQueryChange}
