@@ -1,7 +1,7 @@
 {
-  "name": "nuclearmail",
+  "name": "reflux",
   "version": "0.0.1",
-  "description": "NuclearMail is an experiment of writing a webmail client using React and the Flux architecture. It runs completely in the browser and uses the GMail REST API.",
+  "description": "reflux is based from NuclearMail - as an experiment of writing a webmail client using React and the Flux architecture. It runs completely in the browser and uses the GMail REST API.",
   "main": "App.js",
   "dependencies": {
     "asap": "^2.0.3",
@@ -57,10 +57,10 @@
     "start": "npm run watch-html & npm run watch-js & npm run serve",
     "lint": "eslint src/"
   },
-  "author": "Ian Obermiller",
+  "author": "Michael Angelo B. Sevilla",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ianobermiller/nuclearmail.git"
+    "url": "https://github.com/sanctumware/reflux.git"
   },
   "license": "MIT"
 }
