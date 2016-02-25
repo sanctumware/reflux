@@ -17,10 +17,10 @@ class LoginModal extends Component {
       <div style={styles.overlay}>
         <div style={styles.dialog}>
           <h1 style={styles.title}>
-            ☢ NUCLEARMAIL
+            &#9993; reflux
           </h1>
           <p style={styles.description}>
-            NuclearMail is an experiment of writing a webmail client using React
+            reflux is based on NuclearMail - as an experiment of writing a webmail client using React
             and the Flux architecture. It runs completely in the browser and
             uses the Gmail REST API.
           </p>

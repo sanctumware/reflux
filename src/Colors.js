@@ -3,7 +3,7 @@
 const Color = require('./Color');
 
 const Colors = {
-  accent: new Color('#ff6817'),
+  accent: new Color('#043571'),
   black: new Color('#000'),
   gray1: new Color('#eee'),
   gray2: new Color('#ccc'),
