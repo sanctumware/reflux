@@ -150,7 +150,7 @@ class App extends Component {
         {this.props.isLoading ? <Spinner /> : null}
         <div style={styles.header}>
           <span onClick={this._onLogoClick} style={styles.logo}>
-            &#x2709;
+            &#9993;
             <span style={styles.logoName}>{' '}reflux</span>
           </span>
           <SearchBox
